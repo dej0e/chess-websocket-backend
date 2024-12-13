@@ -1,4 +1,5 @@
 Step-by-Step Guide to Run the FastAPI Backend and React Frontend
+
 If you have Python and Node.js already installed, skip to step 3.
 ----------------------------------------------------------------------------------
 
